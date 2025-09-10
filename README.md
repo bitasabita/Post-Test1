@@ -1,4 +1,4 @@
-<img width="535" height="197" alt="image" src="https://github.com/user-attachments/assets/27671224-6b1a-4b40-95da-5d9db29cd295" /># Post-Test1
+# Post-Test1
 # 👟 **Sistem Manajemen Koleksi Sepatu Digital: Laporan Program**
 
 ## 1. Pendahuluan: Mengapa Program Ini Penting?
