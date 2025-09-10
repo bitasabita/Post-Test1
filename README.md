@@ -76,6 +76,33 @@ Jika ada sepatu yang tidak lagi relevan, opsi 4 memungkinkan Anda menghapusnya. 
 
 <img width="428" height="162" alt="image" src="https://github.com/user-attachments/assets/dd05b716-2506-4e6d-814b-b4ffbe8dd091" />
 
+**Tampilan setelah salah satu koleksi sepatu sudah di hapus:**
+
+<img width="432" height="59" alt="image" src="https://github.com/user-attachments/assets/650a9941-35dc-4d0e-866b-ecdc372cdb59" />
+
+
+### **f. Menu keluar untuk keliar dari program**
+
+
+**Tampilan:**
+
+<img width="408" height="140" alt="image" src="https://github.com/user-attachments/assets/c667b2a8-1949-4e4e-ae6e-b666c48f6e46" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
