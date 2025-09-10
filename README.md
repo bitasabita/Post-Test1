@@ -1,6 +1,6 @@
 # Post-Test1
 # 👟 **Sistem Manajemen Koleksi Sepatu Digital**
-
+--- 
 ## 1.✨Pendahuluan: Mengapa Program Ini Penting?
 
 Bayangkan Anda punya banyak sepatu dari sneakers favorit, pantofel kerja, sampai sandal santai tetapi semua datanya hanya tersimpan di kepala atau catatan manual. Lama-lama pasti bingung: "Sepatu mana saja yang sudah saya punya? Warna dan ukurannya apa? Atau apakah ada data yang keliru?"
@@ -26,7 +26,7 @@ Dengan kata lain, program ini adalah asisten digital pribadi Anda dalam merapika
 
 Interaksi dengan program ini didesain sebagai percakapan yang logis, memandu pengguna melalui setiap langkah dengan jelas.
 
-### **a.🏠Menu Utama: Pusat Komando**
+### **a.🏠Menu Utama**
 
 Saat program pertama kali dijalankan, Anda akan langsung disambut oleh Menu Utama.
 Di sinilah semua perjalanan dimulai. Menu berfungsi sebagai peta navigasi, tempat Anda memilih aksi apa yang ingin dilakukan: menambah sepatu, melihat koleksi, memperbarui data, atau menghapus sepatu.
@@ -37,7 +37,7 @@ Di sinilah semua perjalanan dimulai. Menu berfungsi sebagai peta navigasi, tempa
 **Tampilan:**
 
 <img width="325" height="123" alt="image" src="https://github.com/user-attachments/assets/4cd21aee-1fa2-4916-b890-041304ca02da" />
-
+--- 
 
 ### **b.➕Membangun Koleksi: Operasi Create**
 
@@ -62,7 +62,7 @@ Setelah selesai, data ini langsung diolah menjadi objek sepatu baru yang disimpa
 **Tampilan:**
 
 <img width="416" height="210" alt="image" src="https://github.com/user-attachments/assets/5ad6c59e-4249-48b6-a39a-b938b0bc0973" />
-
+--- 
 
 ### **c.📖 Mengintip Isi Koleksi: Operasi Read**
 
@@ -76,7 +76,7 @@ Program akan menampilkan daftar sepatu dalam format terstruktur, lengkap dengan 
 **Tampilan:**
 
 <img width="535" height="197" alt="image" src="https://github.com/user-attachments/assets/aa03c513-cf5d-48d7-a7da-5c524cb3cc43" />
-
+--- 
 
 ### **d.✏️Koreksi dan Perbaikan: Operasi Update**
 
@@ -108,7 +108,7 @@ Untuk melihat atau memastikan lagi apakah data sepatu sudah terubah, bisa kembal
 **Tampilan setelah diubah:**
 
 <img width="532" height="82" alt="image" src="https://github.com/user-attachments/assets/2055812b-62d6-467b-9860-750290f433bb" />
-
+--- 
 
 ### **e.❌Merapikan Koleksi: Operasi Delete**
 
@@ -131,7 +131,7 @@ Caranya mirip dengan update: Anda memilih nomor urut sepatu yang ingin dihapus. 
 **Tampilan setelah salah satu koleksi sepatu sudah di hapus:**
 
 <img width="432" height="59" alt="image" src="https://github.com/user-attachments/assets/650a9941-35dc-4d0e-866b-ecdc372cdb59" />
-
+--- 
 
 ### **f.🏠Main Menu: Navigasi Utama Program**
 
@@ -145,7 +145,7 @@ Setelah itu, program akan langsung menghentikan semua proses dan menampilkan pes
 **Tampilan:**
 
 <img width="408" height="140" alt="image" src="https://github.com/user-attachments/assets/c667b2a8-1949-4e4e-ae6e-b666c48f6e46" />
-
+--- 
 ## 3.🎯 Kesimpulan
 
 CRUDApp 👟 adalah aplikasi sederhana berbasis konsol yang membantu mengelola koleksi sepatu secara digital melalui fitur Create ➕, Read 📖, Update ✏️, dan Delete ❌. Dengan struktur kode berbasis OOP, program ini berjalan teratur dan mudah dipahami, sehingga cocok digunakan baik untuk latihan pemrograman maupun kebutuhan sederhana sehari-hari. Singkatnya, CRUDApp adalah contoh nyata bagaimana teknologi dapat membuat pengelolaan data jadi lebih praktis, rapi, dan efisien ⚡.
