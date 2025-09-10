@@ -145,6 +145,7 @@ Setelah itu, program akan langsung menghentikan semua proses dan menampilkan pes
 
 <img width="408" height="140" alt="image" src="https://github.com/user-attachments/assets/c667b2a8-1949-4e4e-ae6e-b666c48f6e46" />
 --- 
+
 ## 3.🎯 Kesimpulan
 
 CRUDApp 👟 adalah aplikasi sederhana berbasis konsol yang membantu mengelola koleksi sepatu secara digital melalui fitur Create ➕, Read 📖, Update ✏️, dan Delete ❌. Dengan struktur kode berbasis OOP, program ini berjalan teratur dan mudah dipahami, sehingga cocok digunakan baik untuk latihan pemrograman maupun kebutuhan sederhana sehari-hari. Singkatnya, CRUDApp adalah contoh nyata bagaimana teknologi dapat membuat pengelolaan data jadi lebih praktis, rapi, dan efisien ⚡.
