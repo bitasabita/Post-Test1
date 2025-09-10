@@ -1,4 +1,10 @@
 # Post-Test1
+
+| Nama                      | NIM           | Kelas             |
+|---------------------------|---------------|-------------------|
+| Tsabitah Kawiswara        | 2409116099    | Sistem Informasi C|
+
+
 # 👟 **Sistem Manajemen Koleksi Sepatu Digital**
 --- 
 ## 1.✨Pendahuluan: Mengapa Program Ini Penting?
