@@ -7,7 +7,7 @@ Program **CRUDApp** adalah solusi berbasis konsol yang efisien untuk mengelola k
 
 Dirancang dengan prinsip **Pemrograman Berorientasi Objek (OOP)**, aplikasi ini memastikan struktur kode yang bersih, mudah dikembangkan, dan stabil.
 
----
+--- 
 
 ## 2. Alur Interaksi Pengguna: Navigasi Terpandu
 
@@ -15,9 +15,12 @@ Interaksi dengan program ini didesain sebagai percakapan yang logis, memandu pen
 
 ### **a. Menu Utama: Pusat Komando**
 
-Saat program diluncurkan, Anda akan disambut dengan menu utama yang menjadi titik awal navigasi.
+Saat program diluncurkan, Anda akan disambut oleh menu yang jelas dan ringkas. Menu ini adalah pusat navigasi, memandu Anda untuk memilih tindakan yang diinginkan. Ini adalah tahap inisialisasi, di mana program menunggu instruksi pertama dari Anda.
+
 
 **Tampilan:**
+<img width="325" height="123" alt="image" src="https://github.com/user-attachments/assets/4cd21aee-1fa2-4916-b890-041304ca02da" />
+
 
 ## 🔄 Alur Program  
 
