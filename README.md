@@ -93,3 +93,24 @@ Selain penjelasan naratif dan flowchart, berikut tabel ringkas untuk memudahkan 
 
 📌 Dengan tabel ini, pembaca bisa langsung melihat gambaran umum alur program tanpa harus membaca panjang lebar.
 
+# 👟 Sistem Manajemen Koleksi Sepatu Digital: Laporan Program  
+
+---
+
+## 1. Pendahuluan: Mengapa Program Ini Penting?  
+
+Program **CRUDApp** adalah solusi berbasis konsol yang efisien untuk mengelola koleksi sepatu secara digital.  
+Alih-alih menggunakan metode manual, program ini menawarkan **antarmuka intuitif** untuk melakukan operasi fundamental **CRUD (Create, Read, Update, Delete)**.  
+
+Dirancang dengan prinsip **Pemrograman Berorientasi Objek (OOP)**, aplikasi ini memastikan struktur kode yang bersih, mudah dikembangkan, serta stabil.  
+
+---
+
+## 2. Alur Interaksi Pengguna: Navigasi Terpandu  
+
+Interaksi dengan program ini didesain sebagai **percakapan yang logis**, memandu pengguna melalui setiap langkah dengan jelas.  
+
+### a. Menu Utama: Pusat Komando  
+Saat program dijalankan, pengguna disambut dengan menu navigasi:  
+
+
