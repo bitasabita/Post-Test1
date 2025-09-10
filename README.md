@@ -42,7 +42,7 @@ Di sinilah semua perjalanan dimulai. Menu berfungsi sebagai peta navigasi, tempa
 ### **b.➕Membangun Koleksi: Operasi Create**
 
 Pernah beli sepatu baru dan ingin langsung mencatatnya?
-Itulah fungsi dari Create.
+Itulah fungsi dari Create. Pilih opsi nomor 1
 
 Saat memilih opsi ini, program akan mengajak Anda masuk ke mode input data. Anda cukup memasukkan detail sepatu:
 
@@ -66,7 +66,7 @@ Setelah selesai, data ini langsung diolah menjadi objek sepatu baru yang disimpa
 
 ### **c.📖 Mengintip Isi Koleksi: Operasi Read**
 
-Ingin tahu koleksi sepatu yang sudah tersimpan? Pilihlah opsi Read.
+Ingin tahu koleksi sepatu yang sudah tersimpan? Pilihlah opsi Read di nomor 2
 
 Program akan menampilkan daftar sepatu dalam format terstruktur, lengkap dengan nomor urut agar mudah dikenali. Proses ini bekerja dengan cara mengiterasi (berjalan satu per satu) seluruh objek yang ada di memori, lalu menampilkannya di layar.
 
@@ -83,10 +83,9 @@ Program akan menampilkan daftar sepatu dalam format terstruktur, lengkap dengan 
 Kadang ada kesalahan input—misalnya warna tertulis "Biru" padahal seharusnya "Hitam".
 Tenang, Anda tidak perlu menghapus dan menambahkan ulang.
 
-Dengan memilih opsi Update, Anda cukup:
+Dengan memilih opsi Update di nomor 3, Anda cukup:
 
 Memilih nomor urut sepatu yang ingin diperbaiki.
-
 Memasukkan data baru yang benar.
 
 Program kemudian akan langsung mengganti atribut lama dengan yang baru, tanpa menghapus seluruh objek.
@@ -113,7 +112,7 @@ Untuk melihat atau memastikan lagi apakah data sepatu sudah terubah, bisa kembal
 ### **e.❌Merapikan Koleksi: Operasi Delete**
 
 Ada sepatu yang sudah rusak atau tidak lagi relevan?
-Opsi Delete siap membantu.
+Opsi Delete siap membantu dengan memilih nomor 4.
 
 Caranya mirip dengan update: Anda memilih nomor urut sepatu yang ingin dihapus. Setelah dikonfirmasi, program akan menghapus objek tersebut secara permanen dari daftar.
 
