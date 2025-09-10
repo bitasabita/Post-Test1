@@ -139,7 +139,7 @@ Caranya mirip dengan update: Anda memilih nomor urut sepatu yang ingin dihapus. 
 <img width="432" height="59" alt="image" src="https://github.com/user-attachments/assets/650a9941-35dc-4d0e-866b-ecdc372cdb59" />
 --- 
 
-### **f.🏠Main Menu: Navigasi Utama Program**
+### **f.🏠Keluar dari Program**
 
 Ada kalanya Anda sudah selesai menggunakan aplikasi dan ingin menutupnya dengan aman.
 Di situlah opsi 5 (Keluar) berfungsi.
