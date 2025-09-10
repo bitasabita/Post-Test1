@@ -87,7 +87,7 @@ Program akan menampilkan daftar sepatu dalam format terstruktur, lengkap dengan 
 
 ### **d.✏️Koreksi dan Perbaikan: Operasi Update**
 
-Kadang ada kesalahan input—misalnya warna tertulis "Biru" padahal seharusnya "Hitam".
+Kadang ada kesalahan input misalnya warna tertulis "Biru" padahal seharusnya "Hitam".
 Tenang, Anda tidak perlu menghapus dan menambahkan ulang.
 
 Dengan memilih opsi Update di nomor 3, Anda cukup:
